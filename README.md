@@ -1,1 +1,5 @@
-# Created a structure of tourism website with html and css
+![t1](https://github.com/subikshashrini/tourismwebsite/assets/139609014/a0a178d9-42ab-4b59-bed1-3ba1ae650037)
+![t2](https://github.com/subikshashrini/tourismwebsite/assets/139609014/bb8277d9-6786-4c8d-9318-ce82b2f0795b)
+![t3](https://github.com/subikshashrini/tourismwebsite/assets/139609014/d1ca459f-8021-40f2-8853-9508cb2aeb7b)
+![t4](https://github.com/subikshashrini/tourismwebsite/assets/139609014/35676b0a-af44-4c6e-a266-ad5dd52ce384)
+![t5](https://github.com/subikshashrini/tourismwebsite/assets/139609014/f9d2eb25-2ad1-4f6c-ada9-6f117b22b5cf)
